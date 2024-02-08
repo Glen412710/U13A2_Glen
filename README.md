@@ -45,6 +45,11 @@ try again
 
 #### wireframes
 
++ First page will be the homepage
++ Secound page would be the products
++ Third page all about the company
++ forth page client contact page
+
 ##### Design A
 
 ##### Design B
@@ -53,7 +58,7 @@ try again
 
 #### colour scheme
 
-#### founts 
+#### fonts 
 
 #### Justification
 
