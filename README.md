@@ -2,12 +2,7 @@
 
 ## Assigment Two
 
-
-
-
-
 ### Requirments
-
 
 #### Client Requirements
 
@@ -16,7 +11,7 @@
 + at least four suitable, different original and/or ready-made, embedded multimedia/digital assets, e.g. digital animation, digital graphics, digital audio, digital video [^needswork]
 + should contain some interactive features, e.g. a feedback form to collect customer enquiries [^needswork]
 + should have hyperlinks to other interesting webpages [^needswork]
- easy-to-navigate [^needswork]
++ easy-to-navigate [^needswork]
 + The design should be responsive, [^needswork]
 + proof-read (no spelling/grammar mistakes) [^needswork]
 + Method of asking for contact
