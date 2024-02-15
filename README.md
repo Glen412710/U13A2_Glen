@@ -107,4 +107,12 @@ I am using Josefin Sans font for my main text for my website because it will mak
 
 ### Test
 
++ check if the navigation is work. [^NeedsTesting]
++ check if the video starts. [^NeedsTesting]
++ check if the images are the right size. [^NeedsTesting]
++ check the forms can submit. [^NeedsTesting]
++ check if any of the pages can go back to the home page. [^NeedsTesting]
+
+[^NeedsTesting]: Testing phases
+
 ### Evaluation
