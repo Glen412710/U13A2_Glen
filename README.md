@@ -11,14 +11,14 @@
 + at least four suitable, different original and/or ready-made, embedded multimedia/digital assets, e.g. digital animation, digital graphics, digital audio, digital video [^needswork]
 + should contain some interactive features, e.g. a feedback form to collect customer enquiries [^needswork]
 + should have hyperlinks to other interesting webpages [^needswork]
-+ easy-to-navigate [^needswork]
++ Easy navigation Bar [^needswork]
 + The design should be responsive, [^needswork]
 + proof-read (no spelling/grammar mistakes) [^needswork]
 + Method of asking for contact
 
 #### Visitor Requirements
 
-+ Easy to navigate [^needswork]
++ Easy navigation Bar [^needswork]
 + Loads quickly [^needswork]
 + Attractive design [^needswork]
 + Able to see phones [^needswork]
@@ -40,11 +40,25 @@ try again
 
 #### wireframes
 
-+ First page will be the homepage
-+ Secound page would be the Phones
-+ Third page is about the Accessories/Sims for your phone
-+ fourth page all about the company
-+ fifty page client contact page
++ First page will be the homepage.
+
+In this page this is where the user is been place in the begining of the company's website.
+
++ Secound page would be the Phones.
+
+In the secound page if the user clicks on link in the nav bar then they will be placed in this page to sell all the phones and the user can click on what brand that they want.
+
++ Third page is about the Accessories/Sims for your phone.
+
+On the Third page will sent the user to the Accessories page to find what the user want e.g phones cases or Sim cards for their phones.
+
++ fourth page all about the company.
+
+The Fourth page is all the information about the company and what they do.
+
++ fifty page client contact page.
+
+On the final page this is where the user wants to be contacted if they are in need of help.
 
 ##### Design A
 
@@ -78,8 +92,7 @@ with a white or dark background
 white background - F4F4F4
 Dark background - 525252
 
-The reason with i have chosen blue is because more carming, inspire of being trustworthy and haveing reliabillity. For A and B
-
+The reason with i have chosen blue is because its more carming, inspire of being trustworthy and haveing reliabillity. For A and B.
 it drawns people showing that the company is confident on selling phones.
 
 #### fonts 
