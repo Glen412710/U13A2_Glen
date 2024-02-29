@@ -26,6 +26,7 @@
 + Responsive design [^needswork]
 + specifications of different phones [^needswork]
 + Method of asking for contact
+
 #### Developer Requirements
 
 + clean, well-commented source code
@@ -76,6 +77,10 @@ with the Blue colour will be the ones that the ursers can interact with.
 
 
 ##### Client Feedback
+
++ There is a Text box in the contact page so the user can type down on what they need help with or ask questions.
++ The user will select a tick box if they would like to be contacted by phone or email.
++ they must have their name to be able to send the request or get their question answered. 
 
 #### colour scheme
 
