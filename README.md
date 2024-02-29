@@ -21,7 +21,7 @@
 + Easy navigation Bar [^needswork]
 + Loads quickly [^needswork]
 + Attractive design [^needswork]
-+ Able to see phones [^needswork]
++ Able to see on phones [^needswork]
 + multiple models of phones [^needswork]
 + Responsive design [^needswork]
 + specifications of different phones [^needswork]
@@ -60,7 +60,9 @@ The Fourth page is all the information about the company and what they do.
 + fifty page client contact page.
 
 On the final page this is where the user wants to be contacted if they are in need of help.
-
++ There is a Text box in the contact page so the user can type down on what they need help with or ask questions.
++ The user will select a tick box if they would like to be contacted by phone or email.
++ they must have their name to be able to send the request or get their question answered.
 ##### Design A
 
 I have made the nav bar so i can be more easy for users to choose what page e.g Accessories to navigate around the website. For Design A and B.
@@ -78,9 +80,7 @@ with the Blue colour will be the ones that the ursers can interact with.
 
 ##### Client Feedback
 
-+ There is a Text box in the contact page so the user can type down on what they need help with or ask questions.
-+ The user will select a tick box if they would like to be contacted by phone or email.
-+ they must have their name to be able to send the request or get their question answered. 
+
 
 #### colour scheme
 
