@@ -117,9 +117,9 @@ it drawns people showing that the company is confident on selling phones.
 
 #### fonts 
 
-I am using Sixtyfour font from google fonts for my stlye . Because it being used for the Title of my website.
+I am using AirStrike font from dafont for my title becuase it can attracts people's attention.
 
-I am using Josefin Sans font for my main text for my website because it will make it more readable for the users.
+I am using Coolvetica font for my main text for my website because it will make it more readable for the users.
 
 #### Justification
 
