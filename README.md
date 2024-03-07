@@ -119,7 +119,7 @@ it drawns people showing that the company is confident on selling phones.
 
 I am using AirStrike font from dafont for my title becuase it can attracts people's attention.
 
-I am using Coolvetica font for my main text for my website because it will make it more readable for the users.
+I am using Coolvetica font from dafont for my main text for my website because it will make it more readable for the users.
 
 #### Justification
 
