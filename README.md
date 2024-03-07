@@ -70,6 +70,17 @@ I have made the nav bar so i can be more easy for users to choose what page e.g 
 
 I have made the Background blue and the nav bar a darker gray. 
 
+The reason why i have made this design because: 
++ Is to show the buyers to find the best phones to choose the best phone from the websit.
++ To atract buyer that are interested in phones.
++ To look more professional and interesting.
++ Easy to navigate to other pages.
++ Easy to access for customers to buy.
++ Using more Images to attract customers than text.
++ using some text to describe products or about the company.
++ Interactive pictures on the homepage, Brand/phones page and Accessories page.
+
+
 ##### Design B
 
 With this Design i have made it more Brighter than the over Design to more it look more happyer.
@@ -78,6 +89,15 @@ I ketp the white back ground to make the blue colours to attracts peoples attent
 
 with the Blue colour will be the ones that the ursers can interact with.
 
+The reason that i made this design. It's because:
++ Is to show the buyers to find the best phones to choose the best phone from the websit.
++ To atract buyer that are interested in phones.
++ To look more professional and interesting.
++ Easy to navigate to other pages.
++ Easy to access for customers to buy.
++ Using more text to help customers to understand the website or product that they are buying.
++ Interactive pictures on the Brand/phones page and Accessories page.
++ An interactive slidder to see more pictures of phones on the homepage.
 
 ##### Client Feedback
 
@@ -87,16 +107,10 @@ with the Blue colour will be the ones that the ursers can interact with.
 
 The colours will have:
 
-Two types of blue,
--3575D4 dark blue
--4991FD light blue
-
-The darker blue being the most to interact with.
-
-with a white or dark background
-
-white background - F4F4F4
-Dark background - 525252
+-O5445E - Navy Blue
+-189AB4 - Blue Grotto
+-75E6DA - Blue Green
+-D4F1F4 - Baby Blue
 
 The reason with i have chosen blue is because its more carming, inspire of being trustworthy and haveing reliabillity. For A and B.
 it drawns people showing that the company is confident on selling phones.
