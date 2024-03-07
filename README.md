@@ -59,10 +59,11 @@ The Fourth page is all the information about the company and what they do.
 
 + fifty page client contact page.
 
-On the final page this is where the user wants to be contacted if they are in need of help.
++ On the final page this is where the user wants to be contacted if they are in need of help.
 + There is a Text box in the contact page so the user can type down on what they need help with or ask questions.
 + The user will select a tick box if they would like to be contacted by phone or email.
 + they must have their name to be able to send the request or get their question answered.
+
 ##### Design A
 
 I have made the nav bar so i can be more easy for users to choose what page e.g Accessories to navigate around the website. For Design A and B.
