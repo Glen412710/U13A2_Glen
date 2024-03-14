@@ -1,5 +1,5 @@
 .container-fluid {
-    background-color: #757575;
+    background-color: #05445E;
     height : 150px ;
 }
 
@@ -8,12 +8,12 @@
     padding: 43px 0;
     margin: auto;
     width: 75%;
-    border: 3px solid rgb(41, 41, 41);
+    border: 3px solid #000000;
     background-color: #858585;
 }
 
 .topnav {
-    background-color: #333;
+    background-color: #05445E;
     overflow: hidden;
 }
 
@@ -27,11 +27,30 @@
   }
 
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: #18a3be;
     color: black;
   }
 
   .topnav a.active {
-    background-color: #5a5a5a;
-    color: white;
+    background-color: #189AB4;
+    color: rgb(41, 41, 41);
   }
+
+.container-one {
+  text-align: center;
+  padding: 25px 0;
+  margin: auto;
+  width: 35%;
+  height: 10%;
+  border: 3px solid #000000;
+  background-color: #189AB4;
+}
+
+.container-two {
+  text-align: center;
+  padding: 25px 0;
+  width: 35%;
+  height: 10%;
+  border: 3px solid #000000;
+  background-color: #189AB4;
+}

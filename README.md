@@ -68,7 +68,7 @@ The Fourth page is all the information about the company and what they do.
 
 I have made the nav bar so i can be more easy for users to choose what page e.g Accessories to navigate around the website. For Design A and B.
 
-I have made the Background blue and the nav bar a darker gray. 
+I have made the Background having a baby blue #D4F1F4. The navigation bar navy blue #05445E, and when you hightlight one of the buttons it will change the colour to BlueGreen #75E6DA and then have the subheadings Blue Grotto #189AB4.
 
 The reason why i have made this design because: 
 + Is to show the buyers to find the best phones to choose the best phone from the websit.
