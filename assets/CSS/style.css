@@ -1,3 +1,7 @@
+body {
+  background-color: #D4F1F4;
+}
+
 .container-fluid {
     background-color: #05445E;
     height : 150px ;
@@ -46,10 +50,19 @@
   background-color: #189AB4;
 }
 
+.center {
+  margin: auto;
+  width: 60%;
+  height: 20%;
+  text-align: center;
+  
+}
+
 .container-two {
   text-align: center;
-  padding: 25px 0;
-  width: 35%;
+  padding: 50px 0;
+  margin: auto;
+  width: 40%;
   height: 10%;
   border: 3px solid #000000;
   background-color: #189AB4;
