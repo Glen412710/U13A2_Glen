@@ -111,16 +111,18 @@ The reason that i made this design. It's because:
 
 The colours will have:
 
-Design - A
--O5445E - Navy Blue
--189AB4 - Blue Grotto
--75E6DA - Blue Green
--D4F1F4 - Baby Blue
+\# Not a title
 
-Design - B
--F4F4F4 - White Smoke
--3575D4 - Windows Blue
--4991FD - Dark Sky Blue
+Design  A:
+\#O5445E - Navy Blue
+\#189AB4 - Blue Grotto
+\#75E6DA - Blue Green
+\#D4F1F4 - Baby Blue
+
+Design  B:
+\#F4F4F4 - White Smoke
+\#3575D4 - Windows Blue
+\#4991FD - Dark Sky Blue
 
 The reason with i have chosen blue is because its more carming, inspire of being trustworthy and haveing reliabillity. For A and B.
 it drawns people showing that the company is confident on selling phones.
