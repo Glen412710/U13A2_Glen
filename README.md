@@ -85,9 +85,9 @@ The reason why i have made this design because:
 
 With this Design i have made it more Brighter than the over Design to more it look more happyer.
 
-I ketp the white back ground to make the blue colours to attracts peoples attention.
+I ketp the white back ground to make the blue colours to attracts peoples attention. #F4F4F4
 
-with the Blue colour will be the ones that the ursers can interact with.
+with the Blue colour will be the ones that the ursers can interact with. #3575D4
 
 The reason that i made this design. It's because:
 + Is to show the buyers to find the best phones to choose the best phone from the websit.

@@ -38,7 +38,7 @@ body {
   text-align: center;
   padding: 10px;
   display: grid;
-  grid-template-columns: 300px 300px 300px;
+  grid-template-columns: 400px 400px 400px;
 }
 
 .container-two {
@@ -68,7 +68,7 @@ body {
 .column {
   padding: 2%;
   display: grid;
-  grid-template-columns: 300px 300px 300px 300px;
+  grid-template-columns: 400px 400px 400px 400px;
 }
 
 .spaces {
