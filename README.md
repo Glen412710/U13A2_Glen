@@ -64,6 +64,8 @@ The Fourth page is all the information about the company and what they do.
 + The user will select a tick box if they would like to be contacted by phone or email.
 + they must have their name to be able to send the request or get their question answered.
 
++ here is the link to my wireframe and structure chart: https://www.figma.com/file/V0X7ZC6w6Oep4IppXzg9SL/ICUPhones_FireFrame?type=design&node-id=0%3A1&mode=design&t=bBbfCfqjoZBifUKw-1 
+
 ##### Design A
 
 I have made the nav bar so i can be more easy for users to choose what page e.g Accessories to navigate around the website. For Design A and B.
@@ -88,6 +90,8 @@ With this Design i have made it more Brighter than the over Design to more it lo
 I ketp the white back ground to make the blue colours to attracts peoples attention. #F4F4F4
 
 with the Blue colour will be the ones that the ursers can interact with. #3575D4
+
+
 
 The reason that i made this design. It's because:
 + Is to show the buyers to find the best phones to choose the best phone from the websit.
