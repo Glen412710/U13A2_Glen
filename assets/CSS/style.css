@@ -2,7 +2,7 @@ body {
   background-color: #D4F1F4;
 }
 
-.container-fluid {
+.container-fluid-2 {
     background-color: #05445E;
     height : 150px ;
 }
@@ -16,33 +16,14 @@ body {
     background-color: #858585;
 }
 
-.topnav {
-    background-color: #05445E;
-    overflow: hidden;
+.bg-success {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
 }
-
-.topnav a {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-
-  .topnav a:hover {
-    background-color: #18a3be;
-    color: black;
-  }
-
-  .topnav a.active {
-    background-color: #189AB4;
-    color: rgb(41, 41, 41);
-  }
 
 .container-one {
   text-align: center;
-  padding: 25px 0;
+  padding: 10px ;
   margin: auto;
   width: 35%;
   height: 10%;
@@ -55,15 +36,41 @@ body {
   width: 60%;
   height: 20%;
   text-align: center;
-  
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
 }
 
 .container-two {
   text-align: center;
-  padding: 50px 0;
+  padding: 30px;
   margin: auto;
-  width: 40%;
+  width: 95%;
   height: 10%;
   border: 3px solid #000000;
   background-color: #189AB4;
+}
+
+/*.container-two {
+  text-align: center;
+  float: left;
+  width: 33.33%;
+  height: 10%;
+  padding: 5px;
+  border: 3px solid #000000;
+  background-color: #189AB4;
+}*/
+
+.row{
+  display: flex;
+}
+
+.column {
+  padding: 2%;
+  display: grid;
+  grid-template-columns: 300px 300px 300px 300px;
+}
+
+.spaces {
+  color: #D4F1F4 ;
 }
