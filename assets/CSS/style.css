@@ -74,3 +74,57 @@ body {
 .spaces {
   color: #D4F1F4 ;
 }
+
+.container-three {
+  text-align: center;
+  padding: 30px;
+  margin: auto;
+  width: 95%;
+  height: 10%;
+}
+
+.row-2{
+  display: flex;
+}
+
+.column-2 {
+  padding: 2%;
+  display: grid;
+  grid-template-columns: 800px 800px;
+}
+
+.Pricetag {
+  margin: auto;
+  padding: 1%;
+  background-color: #75E6DA;
+  border: 1px solid #000000;
+  width: 25%;
+  height: 150%;
+}
+
+.container-four {
+  text-align: center;
+  padding: 30px;
+  margin: auto;
+  width: 95%;
+  height: 10%;
+}
+
+.row-3 {
+  display: flex; 
+}
+
+.column-3 {
+  padding: 1%;
+  display: grid;
+  grid-template-columns: 550px 550px 550px;
+}
+
+.Pricetag2 {
+  margin: 2%;
+  padding: 1%;
+  background-color: #75E6DA;
+  border: 1px solid #000000;
+  width: 25%;
+  height: 100%;
+}
