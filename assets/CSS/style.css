@@ -75,6 +75,10 @@ body {
   color: #D4F1F4 ;
 }
 
+.spaces2 {
+  color: #05445E;
+}
+
 .container-three {
   text-align: center;
   padding: 30px;
@@ -127,4 +131,14 @@ body {
   border: 1px solid #000000;
   width: 25%;
   height: 100%;
+}
+
+.container-five {
+  background-color: white;
+  border: 1px solid #000000;
+  text-align: center;
+  padding: 30px;
+  margin: auto;
+  width: 95%;
+  height: 10%;
 }

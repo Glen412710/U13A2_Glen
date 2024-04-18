@@ -87,7 +87,7 @@ The reason why i have made this design because:
 
 With this Design i have made it more Brighter than the over Design to more it look more happyer.
 
-I ketp the white back ground to make the blue colours to attracts peoples attention. #F4F4F4
+I kept the white back ground to make the blue colours to attracts peoples attention. #F4F4F4
 
 with the Blue colour will be the ones that the ursers can interact with. #3575D4
 
@@ -124,7 +124,7 @@ Design  B:
 \#3575D4 - Windows Blue
 \#4991FD - Dark Sky Blue
 
-The reason with i have chosen blue is because its more carming, inspire of being trustworthy and haveing reliabillity. For A and B.
+The reason with i have chosen blue is because its more calming, inspire of being trustworthy and haveing reliabillity. For A and B.
 it drawns people showing that the company is confident on selling phones.
 
 #### fonts 
