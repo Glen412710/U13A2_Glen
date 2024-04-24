@@ -101,7 +101,7 @@ body {
   margin: auto;
   padding: 1%;
   background-color: #75E6DA;
-  border: 1px solid #000000;
+  border: 2px solid #000000;
   width: 25%;
   height: 150%;
 }
@@ -128,7 +128,7 @@ body {
   margin: 2%;
   padding: 1%;
   background-color: #75E6DA;
-  border: 1px solid #000000;
+  border: 2px solid #000000;
   width: 25%;
   height: 100%;
 }
