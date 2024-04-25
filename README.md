@@ -1,13 +1,13 @@
 # U13
 
-## Assigment Two
+## Assignment Two
 
-### Requirments
+### Requirements
 
 #### Client Requirements
 
 + Professional, presenting good image of company [^needswork]
-+ consistent use of text, colour schemes and page styles in all of the web pages [^needswork]
++ consistent use of text, color schemes and page styles in all of the web pages [^needswork]
 + at least four suitable, different original and/or ready-made, embedded multimedia/digital assets, e.g. digital animation, digital graphics, digital audio, digital video [^needswork]
 + should contain some interactive features, e.g. a feedback form to collect customer enquiries [^needswork]
 + should have hyperlinks to other interesting webpages [^needswork]
@@ -30,7 +30,7 @@
 #### Developer Requirements
 
 + clean, well-commented source code
-+ All documention in markdown format
++ All documentation in markdown format
 + test plan
 + test result
 
@@ -43,11 +43,11 @@ try again
 
 + First page will be the homepage.
 
-In this page this is where the user is been place in the begining of the company's website.
+In this page this is where the user is been place in the beginning of the company's website.
 
-+ Secound page would be the Phones.
++ Second page would be the Phones.
 
-In the secound page if the user clicks on link in the nav bar then they will be placed in this page to sell all the phones and the user can click on what brand that they want.
+In the second page if the user clicks on link in the nav bar then they will be placed in this page to sell all the phones and the user can click on what brand that they want.
 
 + Third page is about the Accessories/Sims for your phone.
 
@@ -70,11 +70,11 @@ The Fourth page is all the information about the company and what they do.
 
 I have made the nav bar so i can be more easy for users to choose what page e.g Accessories to navigate around the website. For Design A and B.
 
-I have made the Background having a baby blue #D4F1F4. The navigation bar navy blue #05445E, and when you hightlight one of the buttons it will change the colour to BlueGreen #75E6DA and then have the subheadings Blue Grotto #189AB4.
+I have made the Background having a baby blue #D4F1F4. The navigation bar navy blue #05445E, and when you highlight one of the buttons it will change the color to BlueGreen #75E6DA and then have the subheadings Blue Grotto #189AB4.
 
 The reason why i have made this design because: 
-+ Is to show the buyers to find the best phones to choose the best phone from the websit.
-+ To atract buyer that are interested in phones.
++ Is to show the buyers to find the best phones to choose the best phone from the website.
++ To attract buyer that are interested in phones.
 + To look more professional and interesting.
 + Easy to navigate to other pages.
 + Easy to access for customers to buy.
@@ -85,23 +85,23 @@ The reason why i have made this design because:
 
 ##### Design B
 
-With this Design i have made it more Brighter than the over Design to more it look more happyer.
+With this Design i have made it more Brighter than the over Design to more it look more happier.
 
-I kept the white back ground to make the blue colours to attracts peoples attention. #F4F4F4
+I kept the white back ground to make the blue colors to attracts peoples attention. #F4F4F4
 
-with the Blue colour will be the ones that the ursers can interact with. #3575D4
+with the Blue color will be the ones that the users can interact with. #3575D4
 
-The header,footer and navigation bar will have the colour of a lighter blue: #4991FD
+The header,footer and navigation bar will have the color of a lighter blue: #4991FD
 
 The reason that i made this design. It's because:
-+ Is to show the buyers to find the best phones to choose the best phone from the websit.
-+ To atract buyer that are interested in phones.
++ Is to show the buyers to find the best phones to choose the best phone from the website.
++ To attract buyer that are interested in phones.
 + To look more professional and interesting.
 + Easy to navigate to other pages.
 + Easy to access for customers to buy.
 + Using more text to help customers to understand the website or product that they are buying.
 + Interactive pictures on the Brand/phones page and Accessories page.
-+ An interactive slidder to see more pictures of phones on the homepage.
++ An interactive slider to see more pictures of phones on the homepage.
 
 ##### Client Feedback
 
@@ -109,7 +109,7 @@ The reason that i made this design. It's because:
 
 #### colour scheme
 
-The colours will have:
+The colors will have:
 
 \# Not a title
 
@@ -124,12 +124,12 @@ Design  B:
 \#3575D4 - Windows Blue
 \#4991FD - Dark Sky Blue
 
-The reason with i have chosen blue is because its more calming, inspire of being trustworthy and haveing reliabillity. For A and B.
-it drawns people showing that the company is confident on selling phones.
+The reason with i have chosen blue is because its more calming, inspire of being trustworthy and having reliability. For A and B.
+it draws people showing that the company is confident on selling phones.
 
 #### fonts 
 
-I am using AirStrike font from dafont for my title becuase it can attracts people's attention.
+I am using AirStrike font from dafont for my title because it can attracts people's attention.
 
 I am using Coolvetica font from dafont for my main text for my website because it will make it more readable for the users.
 
