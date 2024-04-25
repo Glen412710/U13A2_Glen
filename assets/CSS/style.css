@@ -99,19 +99,21 @@ body {
 
 .Pricetag {
   margin: auto;
-  padding: 1%;
   background-color: #75E6DA;
   border: 2px solid #000000;
-  width: 25%;
-  height: 150%;
+  width: 35%;
+  height: 25%;
+  text-align: center;
 }
 
 .container-four {
-  text-align: center;
-  padding: 30px;
   margin: auto;
-  width: 95%;
-  height: 10%;
+  width: 60%;
+  height: 20%;
+  text-align: center;
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 500px 500px 500px;
 }
 
 .row-3 {
@@ -121,16 +123,16 @@ body {
 .column-3 {
   padding: 1%;
   display: grid;
-  grid-template-columns: 550px 550px 550px;
+  grid-template-columns: 500px 500px 500px;
 }
 
 .Pricetag2 {
-  margin: 2%;
-  padding: 1%;
+  margin: auto;
   background-color: #75E6DA;
   border: 2px solid #000000;
-  width: 25%;
-  height: 100%;
+  width: 35%;
+  height: 35%;
+  text-align: center;
 }
 
 .container-five {
