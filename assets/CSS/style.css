@@ -139,6 +139,25 @@ body {
   text-align: center;
   padding: 30px;
   margin: auto;
-  width: 95%;
+  width: 90%;
   height: 10%;
+}
+
+.container-six {
+  text-align: center;
+  padding: 10px ;
+  margin: auto;
+  width: 35%;
+  height: 10%;
+  background-color: #05445E;
+}
+
+.container-seven {
+  text-align: left;
+  padding: 20px;
+  margin: auto;
+  width: 95%;
+  height: 5%;
+  border: 1px solid #000000;
+  background-color: #189AB4;
 }
