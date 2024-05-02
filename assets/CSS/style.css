@@ -31,8 +31,6 @@ body {
   background-color: #189AB4;
 }
 
-
-
 .container-two {
   text-align: center;
   padding: 30px;
@@ -52,6 +50,7 @@ body {
   border: 3px solid #000000;
   background-color: #189AB4;
 }*/
+
 
 .row{
   display: flex;
