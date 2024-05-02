@@ -107,7 +107,7 @@ The reason that i made this design. It's because:
 
 
 
-#### colour scheme
+#### color scheme
 
 The colors will have:
 
