@@ -81,7 +81,7 @@ body {
   margin: auto;
   background-color: #75E6DA;
   border: 2px solid #000000;
-  width: 35%;
+  width: 25%;
   height: 20%;
   text-align: center;
 }
@@ -110,7 +110,7 @@ body {
   margin: auto;
   background-color: #75E6DA;
   border: 2px solid #000000;
-  width: 35%;
+  width: 20%;
   height: 25%;
   text-align: center;
 }
@@ -251,9 +251,10 @@ body {
     justify-content: center; 
   }
   .column-2 {
-    grid-template-columns: 600px 600px 600px 600px;
+    grid-template-columns: 600px 600px;
     row-gap: 55px;
     justify-content: center; 
+    margin: auto;
   }
   .column {
     grid-template-columns: 300px 300px 300px 300px;
@@ -267,8 +268,7 @@ body {
     justify-content: center; 
   }
   .container-six {
-    width: 100%;
-    grid-template-columns: 400px 400px 400px 400px;
+    width: 50%;
     row-gap: 55px;
     justify-content: center; 
   }
