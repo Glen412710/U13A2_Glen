@@ -1,8 +1,8 @@
+/*Background*/
 body {
   background-color: #D4F1F4;
 }
 /*All containers*/
-
 .container-one {
   text-align: center;
   padding: 10px ;
@@ -12,7 +12,6 @@ body {
   border: 3px solid #000000;
   background-color: #189AB4;
 }
-
 .container-two {
   text-align: center;
   padding: 30px;
@@ -22,7 +21,6 @@ body {
   border: 3px solid #000000;
   background-color: #189AB4;
 }
-
 .container-three {
   text-align: center;
   padding: 30px;
@@ -30,7 +28,6 @@ body {
   width: 95%;
   height: 10%;
 }
-
 .container-four {
   margin: auto;
   width: 60%;
@@ -40,7 +37,6 @@ body {
   display: grid;
   grid-template-columns: 500px 500px 500px;
 }
-
 .container-five {
   background-color: white;
   border: 1px solid #000000;
@@ -50,7 +46,6 @@ body {
   width: 90%;
   height: 10%;
 }
-
 .container-six {
   text-align: center;
   padding: 10px ;
@@ -59,7 +54,6 @@ body {
   height: 10%;
   background-color: #05445E;
 }
-
 .container-seven {
   text-align: left;
   padding: 20px;
@@ -70,6 +64,7 @@ body {
   background-color: #189AB4;
 }
 
+/*middle-box*/
 .middle-box {
     text-align: center;
     padding: 43px 0;
@@ -78,7 +73,7 @@ body {
     border: 3px solid #000000;
     background-color: #858585;
 }
-
+/*Bootstrap css*/
 .bg-success {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-success-rgb), var(--bs-bg-opacity)) !important;
@@ -92,29 +87,24 @@ body {
 .row{
   display: flex;
 }
-
 .row-2{
   display: flex;
 }
-
 .row-3 {
   display: flex; 
 }
 
 /*All columns*/
-
 .column {
   padding: 2%;
   display: grid;
   grid-template-columns: 400px 400px 400px 400px;
 }
-
 .column-2 {
   padding: 2%;
   display: grid;
   grid-template-columns: 800px 800px;
 }
-
 .column-3 {
   padding: 1%;
   display: grid;
@@ -125,7 +115,6 @@ body {
 .spaces {
   color: #D4F1F4 ;
 }
-
 .spaces2 {
   color: #05445E;
 }
@@ -157,7 +146,6 @@ body {
 }
 
 /*All centers*/
-
 .center {
   margin: auto;
   width: 60%;
@@ -168,7 +156,6 @@ body {
   grid-template-columns: 400px 400px 400px;
   
 }
-
 .center-2 {
   margin: auto;
   width: 60%;
@@ -181,7 +168,6 @@ body {
 }
 
 /*Images*/
-
 .pictures {
   max-width:100%;
   height:auto;
