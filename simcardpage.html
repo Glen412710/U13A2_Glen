@@ -11,41 +11,42 @@
   </head>
 
   <body onload="startTime()">
+    
+    <!-- This will be the header -->
     <div class="container-fluid-2" >
 
-        <header class="text-center" >
-            
-            <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
-            
-            <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
-            
-            <div class="middle-box">
-              <h1>ICU Phones</h1>
-            </div>
-
-            <div id="txt"></div>
-
-            <script>
-              function startTime() {
-                const today = new Date();
-                let h = today.getHours();
-                let m = today.getMinutes();
-                let s = today.getSeconds();
-                m = checkTime(m);
-                s = checkTime(s);
-                document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
-                setTimeout(startTime, 1000);
-              }
-              
-              function checkTime(i) {
-                if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-                return i;
-              }
-              </script>
-                    </div>
+      <header class="text-center" >
+        <div class="Pictures">
+         <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
         
-        </header>
-    </div>
+         <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
+        </div>
+        <div class="middle-box">
+          <h1>ICU Phones</h1>
+          
+          <div id="txt"></div>
+
+<script>
+  function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  </script>
+        </div>
+
+    </header>
+</div>
 
     <!-- The Navbar is used for navigation from Bootstrap -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -104,12 +105,12 @@
     <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://ee.co.uk/mobile/sim-only-deals?s_cid=con_ee_dg-mob_ess_ppc-generic&esskwid=p76195213680&ess_sacid=71700000109890253&ds_rl=1234988&ds_rl=1255520&logo=TUR1&gad_source=1&gclid=EAIaIQobChMI592N6fiRhgMVx4xQBh06ZQBlEAAYAiAAEgLpuvD_BwE&gclsrc=aw.ds">
                <img src="assets/img/Sim_Cards/EE PAYG SIM card preloaded with 120GB.jpg" alt="EE"  width="250" height="250">
                <p class="Pricetag">Price£???</p>
              </a>
   
-             <a href="#">
+             <a href="https://www.o2.co.uk/shop/sim-cards/sim-only-deals?setTTSelectedStack=360&cm_mmc=googleuk-_-PPC_SIMO-_-SIMO-GO-B-SIM_ONLY-_-o2+sim&gad_source=1&gclid=EAIaIQobChMIvIHg__iRhgMVT66DBx1IzQ7QEAAYASAAEgJTVPD_BwE&gclsrc=aw.ds">
                <img src="assets/img/Sim_Cards/O2 SIM Card UK & EUROPE PREPAID PAYG £10 Bundle -8GB.jpg" alt="O2"  width="250" height="250">
                <p class="Pricetag">Price£???</p>
              </a>
@@ -121,12 +122,12 @@
       <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://www.vodafone.co.uk/sim-only/pay-as-you-go-sim?kw=2076373425_80206295402_679465525341_kwd-305527722892_c___k_EAIaIQobChMIvIHg__iRhgMVT66DBx1IzQ7QEAAYAyAAEgJPAvD_BwE_k_;expubdata=ken_clickid;cpdir=%7Bunescapedlpurl%7D&cid=ppc-UK_19_AO_P_X_J_I_D_PAYG_BAU_Promo_Text-Generic_Google_Free-SIM_NA_NA_Competitor-O2_Mix_Mix_NA_Exact__2076373425&kpid=go_cmp-2076373425_adg-80206295402_ad-679465525341_kwd-305527722892_dev-c_ext-_prd-&vfadid=2076373425&cid=ppc&gad_source=1&gclid=EAIaIQobChMIvIHg__iRhgMVT66DBx1IzQ7QEAAYAyAAEgJPAvD_BwE&gclsrc=aw.ds">
                 <img src="assets/img/Sim_Cards/Vodafone.jpg" alt="Vodafone"  width="250" height="250">
                 <p class="Pricetag">Price£???</p>
               </a>
 
-              <a href="#">
+              <a href="https://www.three.co.uk/shop/sim-only/pay-monthly?mc=paidSearch&mp=google&mcn=dr_csim_pmax_sim_only&mct=pmax&mkw=simonly&mdt=05Mar24&mlob=csim&s_kwcid=AL!14693!3!!!!x!!!20511661592!&gad_source=1&gclid=EAIaIQobChMIvIHg__iRhgMVT66DBx1IzQ7QEAAYAiAAEgIGQPD_BwE&gclsrc=aw.ds">
                 <img src="assets/img/Sim_Cards/Three Mobile PAYG Voice SIM Pack - 10GB.jpg" alt="Three"  width="250" height="250">
                 <p class="Pricetag">Price£???</p>
               </a>

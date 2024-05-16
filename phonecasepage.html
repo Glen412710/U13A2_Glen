@@ -11,37 +11,41 @@
   </head>
 
   <body onload="startTime()">
-    <header class="text-center" >
-      <div class="Pictures">
-       <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
-      
-       <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
-      </div>
-      <div class="middle-box">
-        <h1>ICU Phones</h1>
+    
+    <!-- This will be the header -->
+    <div class="container-fluid-2" >
+
+      <header class="text-center" >
+        <div class="Pictures">
+         <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
         
-        <div id="txt"></div>
+         <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
+        </div>
+        <div class="middle-box">
+          <h1>ICU Phones</h1>
+          
+          <div id="txt"></div>
 
 <script>
-function startTime() {
-  const today = new Date();
-  let h = today.getHours();
-  let m = today.getMinutes();
-  let s = today.getSeconds();
-  m = checkTime(m);
-  s = checkTime(s);
-  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
-  setTimeout(startTime, 1000);
-}
+  function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  </script>
+        </div>
 
-function checkTime(i) {
-  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-  return i;
-}
-</script>
-      </div>
-
-  </header>
+    </header>
 </div>
 
     <!-- The Navbar is used for navigation from Bootstrap -->
@@ -101,12 +105,12 @@ function checkTime(i) {
     <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://www.amazon.co.uk/Case-Collection-Samsung-Galaxy-M33-Black/dp/B09WKQ74C2">
                <img src="assets/img/Phone_Cases/Premium_Leather_Folio_Flipcover_M33.jpg" alt="M33 leather flipcover phone case"  width="250" height="300">
                <p class="Pricetag">Price£???</p>
              </a>
   
-             <a href="#">
+             <a href="https://www.amazon.co.uk/Nokia-G60-5G-Protective-Anti-Scratch-Lasi-Red/dp/B0BR5VHVB9">
                <img src="assets/img/Phone_Cases/Red_Carbon_Fibre_G60.jpg" alt="G60 Red carbon fibre Phone Case"  width="250" height="300">
                <p class="Pricetag">Price£???</p>
              </a>
@@ -118,12 +122,12 @@ function checkTime(i) {
       <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://www.fruugo.co.uk/for-nothing-phone-2-case-slim-carbon-fibre-case-compatible-nothing-phone-2-aramid-fibre-materials-ultra-thin-shcokproof/p-206532619-439499201">
                 <img src="assets/img/Phone_Cases/Aramid_Fibre_PhoneCase_(2).jpg" alt="Nothing phone 2 phone case"  width="250" height="300">
                 <p class="Pricetag">Price£???</p>
               </a>
 
-              <a href="#">
+              <a href="https://www.walmart.com/ip/Caseborne-Compatible-iPhone-15-Pro-Max-Protective-Case-5-Layer-Construction-MagSafe-Tempered-Glass-Screen-Protector-Kickstand-Holster-Orange/5053300584">
                 <img src="assets/img/Phone_Cases/IPhone15_MaxPro_MilitaryGrade_PhoneCase.webp" alt="Iphone 15 max pro Military grade phone case"  width="250" height="300">
                 <p class="Pricetag">Price£???</p>
               </a>

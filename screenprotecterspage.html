@@ -11,37 +11,41 @@
   </head>
 
   <body onload="startTime()">
-    <header class="text-center" >
-      <div class="Pictures">
-       <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
-      
-       <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
-      </div>
-      <div class="middle-box">
-        <h1>ICU Phones</h1>
+    
+    <!-- This will be the header -->
+    <div class="container-fluid-2" >
+
+      <header class="text-center" >
+        <div class="Pictures">
+         <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
         
-        <div id="txt"></div>
+         <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
+        </div>
+        <div class="middle-box">
+          <h1>ICU Phones</h1>
+          
+          <div id="txt"></div>
 
 <script>
-function startTime() {
-  const today = new Date();
-  let h = today.getHours();
-  let m = today.getMinutes();
-  let s = today.getSeconds();
-  m = checkTime(m);
-  s = checkTime(s);
-  document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
-  setTimeout(startTime, 1000);
-}
+  function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  </script>
+        </div>
 
-function checkTime(i) {
-  if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
-  return i;
-}
-</script>
-      </div>
-
-  </header>
+    </header>
 </div>
 
     <!-- The Navbar is used for navigation from Bootstrap -->
@@ -101,12 +105,12 @@ function checkTime(i) {
     <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://www.ebay.co.uk/itm/155606162402">
                <img src="assets/img/Screen_Protecters/CURVEDSCREEN_PROTECTORCOVER_GORILLA_TEMPEREDGLASS_M33.webp" alt="M33 Screen Protector"  width="250" height="300">
                <p class="Pricetag">Price£???</p>
              </a>
   
-             <a href="#">
+             <a href="https://www.mytrendyphone.co.uk/shop/nokia-g60-tempered-glass-screen-protector-298325p.html">
                <img src="assets/img/Screen_Protecters/TemperedGlass_ScreenProtector_Nokia_G60.webp" alt="G60 Screen Protector"  width="250" height="300">
                <p class="Pricetag">Price£???</p>
              </a>
@@ -118,12 +122,12 @@ function checkTime(i) {
       <div class="container-three">
         <div class="row-2">
          <div class="column-2">
-             <a href="#">
+             <a href="https://www.ebay.co.uk/itm/115863996218">
                 <img src="assets/img/Screen_Protecters/NothingPhone_(2)_ScreenProtector_TemperedGlass.jpg" alt="Nothing phone 2 Screen Protector"  width="250" height="300">
                 <p class="Pricetag">Price£???</p>
               </a>
 
-              <a href="#">
+              <a href="https://www.mytrendyphone.co.uk/shop/iphone-15-pro-max-baseus-diamond-series-tempered-glass-screen-protector-314694p.html">
                 <img src="assets/img/Screen_Protecters/Baseus-Diamond-Series-Tempered-Glass-Screen-Protector-iPhone-15-Pro-Max.webp" alt="Iphone 15 max pro Screen Protector"  width="250" height="300">
                 <p class="Pricetag">Price£???</p>
               </a>
