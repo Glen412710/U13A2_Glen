@@ -10,22 +10,42 @@
     <link rel="stylesheet" href="assets/CSS/style.css">
   </head>
 
-  <body>
+  <body onload="startTime()">
     <!-- This will be the header -->
     <div class="container-fluid-2" >
 
-        <header class="text-center" >
-            
-            <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
-            
-            <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
-            
-            <div class="middle-box">
-              <h1>ICU Phones</h1>
-            </div>
+      <header class="text-center" >
+        <div class="Pictures">
+         <img src="assets/img/Phone Logo.png" class="rounded float-start" alt="ICU Phones Logo">
+        
+         <img src="assets/img/Phone Logo.png" class="rounded float-end" alt="ICU Phones Logo">
+        </div>
+        <div class="middle-box">
+          <h1>ICU Phones</h1>
+          
+          <div id="txt"></div>
 
-        </header>
-    </div>
+<script>
+  function startTime() {
+    const today = new Date();
+    let h = today.getHours();
+    let m = today.getMinutes();
+    let s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+    setTimeout(startTime, 1000);
+  }
+  
+  function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+  }
+  </script>
+        </div>
+
+    </header>
+</div>
 
     <!-- The Navbar is used for navigation from Bootstrap -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -72,7 +92,7 @@
       </div>
     </nav>
 
-    <!-- space here --> <!-- all about this script will be on the Index Page -->
+    <!-- space here --> 
     <div class="spaces">a</div>
 
     <!-- A subheading -->

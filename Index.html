@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="assets/CSS/style.css">
   </head>
 
-  <body>
+  <body onload="startTime()">
 
     <!-- This will be the header -->
     <div class="container-fluid-2" >
@@ -23,11 +23,32 @@
             </div>
             <div class="middle-box">
               <h1>ICU Phones</h1>
+              
+              <div id="txt"></div>
+
+    <script>
+      function startTime() {
+        const today = new Date();
+        let h = today.getHours();
+        let m = today.getMinutes();
+        let s = today.getSeconds();
+        m = checkTime(m);
+        s = checkTime(s);
+        document.getElementById('txt').innerHTML =  h + ":" + m + ":" + s;
+        setTimeout(startTime, 1000);
+      }
+      
+      function checkTime(i) {
+        if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+        return i;
+      }
+      </script>
             </div>
 
         </header>
     </div>
 
+    
     <!-- The Navbar is used for navigation from Bootstrap -->
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
       <div class="container-fluid">
@@ -75,6 +96,8 @@
 
     <!-- This class will make a space with the letter or word as the same color of the background -->
     <div class="spaces">a</div>
+
+ 
 
     <!-- This will be a subheading for top three best selling  -->
     <div class="container-one">
