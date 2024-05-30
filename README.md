@@ -115,6 +115,10 @@ With this feedback i had made a few changes on the about us page to have more an
 
 The reason for this change because I only have a bit information about the company and with a lot of lorem underneath it, so I decided to replace the lorem with more proper information about the company.
 
+The next changes i had made was the pictures for the phone version centered.
+
+The reason for this change because the pictures for phone was off centered and out of place so i decided to center i use grid tutorials on how to use rows, columns & @media.
+
 #### color scheme
 
 The colors will have:
