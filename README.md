@@ -111,6 +111,10 @@ Client 1 ( Darius )
 
 The recorded message from one of the students on my level group. There are some sentences that do not make sense because its have been incorrectly recorded and slow. The information that has been recorded does not say that i need to make any improvements or changes to my website.
 
+With this feedback i had made a few changes on the about us page to have more and proper information about the company on what i think about of the local company.
+
+The reason for this change because I only have a bit information about the company and with a lot of lorem underneath it, so I decided to replace the lorem with more proper information about the company.
+
 #### color scheme
 
 The colors will have:
