@@ -121,7 +121,7 @@ In summary, the website is very well-designed. It is simple, not complicated, an
 
 The recorded message from one of the students on my level group. There are some sentences that do not make sense because its have been incorrectly recorded and slow. The information that has been changed to make it more suitable to read, and it does not say that i need to make any improvements or changes to my website.
 
- I made a few changes on the about us page to have more and proper information about the company on what i think about of the local company.
+I made a few changes on the about us page to have more and proper information about the company on what i think about of the local company.
 
 The reason for this change because I only had a small amount of information about the company and a lot of lorem underneath it, so I decided to replace the lorem with the correct information about the company.
 
