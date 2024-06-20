@@ -1,0 +1,7 @@
+| What it is?        | whats it for?                                                                      | where is it found?                                                  |   |   |
+|--------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------|---|---|
+| ICU Phones logo    | A logo for the website and for the company on both sides of the header.             | https://iheartcraftythings.com/cartoon-phone-drawing.html           |   |   |
+| Samsung Galaxy M33 | This is used for an image for one of the product pages called Samsung under Phones. | https://www.which.co.uk/reviews/mobile-phones/samsung-galaxy-m33-5g |   |   |
+| Nokia G60 5G         | This is used for another phone but in a different brand called Nokia under phones. | https://www.sotel.co.uk/en/Handy-Tablet/Smartphones/Nokia-G60-5G-16-7-cm-6-58-Dual-SIM-Android-12-USB-Type-C-4-GB-128-GB-Black.html |   |   |
+| Apple Airpods Max  | This will be in another product page called headphone under accessories.           | https://www.apple.com/uk/shop/buy-airpods/airpods-max               |   |   |
+| Red_Carbon_Fibre_G60 | This image is for another product for the phone case page under accessories.       | https://www.amazon.co.uk/Nokia-G60-5G-Protective-Anti-Scratch-Lasi-Red/dp/B0BR5VHVB9                                                |   |   |
