@@ -177,3 +177,21 @@ The reason for this change because the images for phone was off centered and out
 
 1. In summary, the website is very well-designed. It is simple, not complicated, and visually appealing. The navigation is easy, and the contact form is straightforward and efficient. Well done!
 
+
+### Evaluation
+
++ Professional, presenting good image of company to attract my audience to access my website to purchase products and receive a good feedback.
+
++ Consistent use of text, color schemes and page styles in all of the web pages. I have used the color blue, because this shade creates a sense of trust and encourages customers and users to my website. I have consistently used the same page layout to not confuse the user and to keep it simple.
+
++ At least four suitable, different original and/or ready-made, embedded multimedia/digital assets, e.g. digital animation, digital graphics, digital audio, digital video. I could of used some of the digital audio, videos and animations, but I decided not to use them, because I wanted a simple access website for users.
+
++ Should contain some interactive features, e.g. a feedback form to collect customer enquiries, but I needed to have a java script to collect and store their feedback information.
+
++ Should have hyperlinks to other interesting webpages to broaden their interests to search for other products and accessories to different websites. 
+
++ Easy navigation Bar is the same use as the design and has meet the for customers to access pages to different products and contact page.
+
++ The design should be responsive and has made the website mobile friendly by improving large and small screens on the mobile. This helps the customers spend more time on my website.
+
++ Proof-read (no spelling/grammar mistakes) I had used a code spell checker to check for any spelling / grammar mistakes that makes it readable for users.
